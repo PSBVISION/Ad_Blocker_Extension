@@ -51,7 +51,7 @@
         "id": 9,
         "priority": 1,
         "action": { "type": "block"},
-        "condition": { "urlFilter": "*://*.google-analytics.com/*" }
+        "condition": { "urlFilter": "*://*.googlesyndication.com/*" }
     },
     {
         "id": 10,
